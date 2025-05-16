@@ -55,6 +55,9 @@ The circuit includes:
 - **Amplifier 2:** Further amplifies the filtered signal  
 - **Display:** Shows BPM or waveform
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/911c4852-e10f-4d94-b466-82373629e006", width="620">
+</p>
 
 **Signal Flow:**  
 `Microphone → Amplifier → LPF → Amplifier → OLED Display`
