@@ -1,4 +1,4 @@
-# Electronic-Heartbeat-Reade
+# Electronic-Heartbeat-Reader
 
 ## Table of Contents
 - [Overview](#overview)
@@ -57,6 +57,10 @@ The circuit includes:
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/911c4852-e10f-4d94-b466-82373629e006", width="620">
+</p>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/b2213924-d896-4be7-b2c9-2ffc39b2b9ae", width="620">
 </p>
 
 **Signal Flow:**  
