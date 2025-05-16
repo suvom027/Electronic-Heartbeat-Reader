@@ -68,9 +68,8 @@ The circuit includes:
 </p>
 
 **Signal Flow:**  
-<p align="center">
 `Microphone → Amplifier → LPF → Amplifier → OLED Display`
-</p>
+
 ---
 
 ## Results
