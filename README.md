@@ -63,9 +63,14 @@ The circuit includes:
 <img src="https://github.com/user-attachments/assets/b2213924-d896-4be7-b2c9-2ffc39b2b9ae", width="620">
 </p>
 
-**Signal Flow:**  
-`Microphone → Amplifier → LPF → Amplifier → OLED Display`
+<p align="center">
+    <strong>Fig: Hardware Demonstration in Vero Board </strong>
+</p>
 
+**Signal Flow:**  
+<p align="center">
+`Microphone → Amplifier → LPF → Amplifier → OLED Display`
+</p>
 ---
 
 ## Results
