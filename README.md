@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - [Overview](#overview)
+- [Team Members](#team-members)
 - [Features](#features)
 - [Components Used](#components-used)
 - [System Description](#system-description)
@@ -9,12 +10,27 @@
 - [Results](#results)
 - [Cost Estimation](#cost-estimation)
 - [Conclusion](#conclusion)
-- [Team Members](#team-members)
+
 
 ---
 
 ## Overview
 The **Electronic Heartbeat Reader** is a portable and low-cost device designed to detect and display human heartbeats. It uses a microphone with a stethoscope to capture the heart's vibrations and processes the signal using amplification and filtering stages. The processed heartbeat signal is then visualized on a 0.96-inch OLED display.
+
+---
+
+## Team Members
+**Group Name:** Amplifier  
+- Md. Nayon Khan – 021 221 045  
+- Suvom Karmakar – 021 221 027  
+- Md. Ratul Hassan – 021 221 036  
+- Shakil Ahmed – 021 221 040  
+
+**Submitted to:**  
+Dr. Sadid Muneer, Ph.D  
+Assistant Professor  
+Department of Electrical and Electronic Engineering  
+United International University
 
 ---
 
@@ -93,20 +109,6 @@ The design is affordable, easy to replicate, and ideal for personal or education
 ---
 
 ## Conclusion
-This project demonstrates a functional heartbeat reader built using fundamental electronics concepts. It's cost-effective, simple to assemble, and can be enhanced further (e.g., wireless features or data storage). It provides an excellent learning platform for biomedical electronics.
+This project demonstrates a functional heartbeat reader built using fundamental electronics concepts. It's cost-effective, simple to assemble, and can be enhanced further. It provides an excellent learning platform for biomedical electronics.
 
 ---
-
-## Team Members
-**Group Name:** Amplifier  
-- Md. Nayon Khan – 021 221 045  
-- Suvom Karmakar – 021 221 027  
-- Md. Ratul Hassan – 021 221 036  
-- Shakil Ahmed – 021 221 040  
-
-**Submitted to:**  
-Dr. Sadid Muneer, Ph.D  
-Assistant Professor  
-Department of Electrical and Electronic Engineering  
-United International University
-
